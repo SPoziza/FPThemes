@@ -1,0 +1,12 @@
+#rubilnik {
+    --pxscale: 25px;
+    width: var(--pxscale); 
+    height: var(--pxscale);
+    align-items: center;
+}
+
+#titi {
+    font-size: 14pt;
+    font-family: "Consolas";
+    color:aquamarine;
+}

@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "My CSS Override",
+  "version": "3.0",
+  "description": "пееениссс.",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "css": ["style.css"]
+    }
+  ]
+}

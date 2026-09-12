@@ -1,0 +1,122 @@
+body {
+  background-color: #000000 !important;	
+  color: #f0f0f0 !important;
+}
+
+a {
+  color: #000000 !important;
+  text-decoration: none !important;
+}
+
+.author-name, .author-timestamp, .community-author-name, .author-name-user, .creator-username{
+  color: #f0f0f0 !important;
+}
+
+.top-bar, .post, .post-content-row{ 
+  background: #3e4166 !important;
+}
+
+.feedmain{
+  background-color:#000000 !important;
+}
+
+.comment-item{
+  background: linear-gradient(1deg, rgba(94, 82, 250, 1) 0%, rgba(61, 61, 212, 1) 25%, rgba(21, 100, 172, 1) 49%, rgba(15, 130, 194, 1) 74%, rgba(0, 212, 255, 1) 100%)!important; 
+}
+
+p {
+  line-height: 1.8 !important;
+}
+
+none {
+  border: 5px dotted !important;
+  border-color: #000000 !important;
+}
+
+.post-author{ 
+  background: linear-gradient(90deg,rgba(131, 58, 180, 1) 0%, rgba(252, 176, 69, 1) 100%) !important; 
+}
+
+.post-content-row {
+background: linear-gradient(90deg,rgba(23, 176, 173, 1) 0%, rgba(93, 35, 120, 1) 50%, rgba(6, 56, 117, 1) 100%) !important;
+}
+
+.chat-card {
+  background: linear-gradient(90deg,rgba(131, 58, 180, 1) 0%, rgba(252, 176, 69, 1) 100%) !important;
+}
+.feed-tabs {
+  background: #9f0af5  !important ;
+}
+.chat-messages-container{
+  background: #0000 !important;
+}
+.message-text{
+  color:#000000 !important;
+}
+.chat-partner-name{
+  color :#bd333300 !important;
+}
+.chat-header-info{
+  background: linear-gradient(0deg,rgba(34, 193, 195, 1) 0%, rgba(186, 116, 41, 1) 50%, rgba(253, 187, 45, 1) 100%) !important;
+}
+.chats-list-panel{
+background-color: #000000!important;
+}
+.chat-container-panel{
+  background: radial-gradient(circle,rgba(50, 30, 179, 1) 0%, rgba(252, 70, 107, 1) 100%) !important;
+}
+.chat-partner-name{
+  color: #000 !important;
+}
+.chat-input-area{
+background: linear-gradient(90deg, #df3000 0.000%, #ff9125 16.667%, #dad99a 33.333%, #72e0e8 50.000%, #14a3d6 66.667%, #004373 83.333%, #3a0005 100.000%)!important ;
+}
+.community-header-subs{
+  background:#141314 !important;
+}
+.profile-neck open{
+  background:#141314 !important; 
+}
+.like-button{
+  background: linear-gradient(208deg, rgb(3 210 255) 0%, rgb(24 223 146) 100%) !important ;
+}
+.dislike-button{
+  background: linear-gradient(208deg, rgb(47 31 231 / 67%) 0%, rgb(39 255 0 / 63%) 100%) !important;
+}
+.notifications-content{
+   background: -webkit-linear-gradient(to right, #000000, #152331) !important;
+  background: linear-gradient(to right, #000000, #152331) !important;
+}
+.notification-text{
+  color: #f0f0f0 !important;
+}
+.notification-actor-name{
+  color:#f0f0f0 !important;
+}
+.notification-preview{
+  color:#f0f0f0 !important;
+  background: -webkit-linear-gradient(to right, #021b79, #0575e6)!important ; 
+  background: linear-gradient(to right, #021b79, #0575e6) !important;
+}
+.notifications-date-header{
+  color:#f0f0f0 !important;
+  background: -webkit-linear-gradient(to right, #434343, #000000)!important ;
+  background: linear-gradient(to right, #434343, #000000)!important ;
+}
+.notifications-header{
+  color:#f0f0f0 !important;
+   background: -webkit-linear-gradient(to right, #434343, #000000)!important ;
+  background: linear-gradient(to right, #434343, #000000)!important ;
+}
+.notifications-header h3 {
+  color:#f0f0f0 !important;
+}
+.notifications-footer{
+  background: -webkit-linear-gradient(to right, #274046, #e6dada)!important ; 
+  background: linear-gradient(to right, #274046, #e6dada)!important;
+}
+.notification-action-btn, .notification-action-btn, .notifications-mark-all-btn, .notifications-refresh-btn{
+ background: -webkit-linear-gradient(to right, #274046, #e6dada)!important ; 
+ background: linear-gradient(to right, #274046, #e6dada)!important;
+ color:#ffffff !important;
+}
